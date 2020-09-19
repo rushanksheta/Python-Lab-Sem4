@@ -4,8 +4,6 @@
 
 #Rushank G Sheta  ( SE IT )
 
-#>>>>>>>>>>>>>>>   if the database file named 'booking.db' is already existing, Please delete and run :)    <<<<<<<<<<<<<<<<<<<<<
-
 '''for admin login
                     username = admin
                     password = admin
